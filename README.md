@@ -1,4 +1,5 @@
-# Vue 3 + Vite
+# 基于 Vue 3 + Vite + vue-virtual-scroller 实现无限下拉列表
 
+第一步：yarn add vue-virtual-scroller@next
 
-##### 安装vue-virtual-scroll-list插件
+第二步：在main.js中引入 vue-virtual-scroller
